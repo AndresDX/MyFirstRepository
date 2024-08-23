@@ -1,12 +1,15 @@
 <style>
 h1 {
-    text-align: center;
+   text-align: right;
+    
 }
 tr {
     text-align: center;
 }
 table {
-    border-color: rgb(3, 2, 2);
-
+ background-color: aliceblue;
+}
+body {
+   background-color: darkslategrey;
 }
 </style>
